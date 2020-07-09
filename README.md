@@ -8,4 +8,3 @@
 - 📫 How to reach me: manvendra.netlify.app
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big movie geek
--->
