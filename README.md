@@ -7,4 +7,4 @@
 - 💬 Ask me about Javascript, React or Movies
 - 📫 How to reach me: http://manvendra.netlify.app/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nerd, Big movie geek
+- ⚡ Fun fact: Big movie geek
