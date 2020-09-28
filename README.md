@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Freelancer consultant
+- 🔭 I’m currently working as a Freelance consultant
 - 🌱 I’m currently learning Typescript and NextJS
 - 👯 I’m looking to collaborate on anything Javascript
 - 💬 Ask me about Javascript, React and it's ecosystem or Movies
